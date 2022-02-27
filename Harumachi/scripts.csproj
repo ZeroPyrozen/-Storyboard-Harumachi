@@ -53,7 +53,9 @@
   -->
   <ItemGroup>
     <Compile Include="HCBackground.cs" />
+    <Compile Include="HCLyrics.cs" />
     <Compile Include="Lyrics.cs" />
+    <Compile Include="Particles.cs" />
   </ItemGroup>
   <ItemGroup />
 </Project>
